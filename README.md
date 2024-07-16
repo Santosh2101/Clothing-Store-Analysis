@@ -1,4 +1,4 @@
-# Clothing-Store-Analysis
+# Clothing-Store-Analysis (Excel)
  This project focuses on analyzing the sales in a clothing store
  
 **Project Overview :**
