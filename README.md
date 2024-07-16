@@ -22,4 +22,5 @@ Improved Decision-Making: Provides actionable insights.
 Enhanced Reporting: Creates professional reports and dashboards.
 
 **Final Dashboard:**
-![image](https://github.com/user-attachments/assets/84d3c279-5513-40c7-9ee6-ecabed4ae109)
+![image](https://github.com/user-attachments/assets/8bb4dbf4-8a3c-47d6-9ce1-174aa25527b9)
+
